@@ -1,0 +1,6 @@
+{
+  "name": "GrowthOS — Creator Growth & Publishing Platform",
+  "description": "AI-Powered Creator Growth & Publishing Platform for Instagram Reels & YouTube Shorts with Direct Instagram Login and packaging optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
